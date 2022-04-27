@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-using-ARIMA
+# stock-price-prediction-using-arima
 
 ### Predicting the stock price of HCLTECH using Autoregressive integrated moving average (ARIMA)
 
